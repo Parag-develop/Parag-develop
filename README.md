@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I build beautiful, performant web applications with modern technologies. Passionate about creating intuitive user experiences and contributing to open-source.
 
-📫 **Let's Connect**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
 
 ---
 
@@ -74,17 +74,9 @@ Fixed layout issues in React curriculum used by 500k+ learners
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 ---
 
-## 📈 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
-
----
-
 ## 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](your-linkedin)  
 ✉️ [Email](mailto:paragpalkar97@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
 
----
 
 ---
