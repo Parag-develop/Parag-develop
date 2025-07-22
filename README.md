@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I build beautiful, performant web applications with modern technologies. Passionate about creating intuitive user experiences and contributing to open-source.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/parag-palkar-453675193/))
 
 ---
 
@@ -76,7 +76,8 @@ Fixed layout issues in React curriculum used by 500k+ learners
 
 ## 📫 Let's Connect!  
 ✉️ [Email](mailto:paragpalkar97@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/parag-palkar-453675193/))
 
 
 ---
