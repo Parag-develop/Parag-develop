@@ -1,11 +1,10 @@
-# 👋 Hi, I'm [Your Name]! 
+# 👋 Hi, I'm Parag Palkar ! 
 
-**Frontend Developer | Open-Source Contributor | UI/UX Enthusiast**
+**Full Stack Software Developer | Open-Source Contributor | UI/UX Enthusiast**
 
 Welcome to my GitHub profile! I build beautiful, performant web applications with modern technologies. Passionate about creating intuitive user experiences and contributing to open-source.
 
-🔗 **Portfolio**: [Your Portfolio Link]  
-📫 **Let's Connect**: [Your Email/LinkedIn]  
+📫 **Let's Connect**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
 
 ---
 
@@ -44,16 +43,35 @@ Fixed layout issues in React curriculum used by 500k+ learners
 
 ---
 
-## 🛠 Tech Stack  
-**Frontend**:  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
+## 🛠 Tech Stack
 
-**Backend**:  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  
+### **Frontend & UI**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![Material UI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
 
-**Tools**:  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)  
+### **Backend & Databases**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
 
+### **DevOps & Cloud**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
+
+### **Tools & Utilities**
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge)
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 ---
 
 ## 📈 GitHub Stats  
@@ -65,22 +83,8 @@ Fixed layout issues in React curriculum used by 500k+ learners
 
 ## 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](your-linkedin)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](your-twitter)  
-✉️ [Email](mailto:your-email@example.com)
+✉️ [Email](mailto:paragpalkar97@gmail.com)
 
 ---
 
-✨ **Fun Fact**: I once built a working prototype in 48 hours during a hackathon!  
-
 ---
-
-### 🔍 Currently Exploring:  
-- Web3 and Blockchain technologies  
-- Advanced React performance optimization  
-
----
-
-**Visitor Count**  
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)  
-
-⭐ **Pro Tip**: Check out my pinned repositories below for more cool projects!
